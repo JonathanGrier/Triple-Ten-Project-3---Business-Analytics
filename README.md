@@ -28,7 +28,7 @@ This project analyzes user behavior and purchasing patterns to derive actionable
 
  Visualizations
 Conversion Funnel - ![Screenshot 2025-05-20 102119](https://github.com/user-attachments/assets/e606cb9d-b5b9-4492-a45c-a839f5625c18)
-Cohort Anlysis - ![Screenshot 2025-05-20 102131](https://github.com/user-attachments/assets/e0fc1ab8-7b1e-4e85-bfae-08e5f195cbc2)
+Cohort Analysis - ![Screenshot 2025-05-20 102131](https://github.com/user-attachments/assets/e0fc1ab8-7b1e-4e85-bfae-08e5f195cbc2)
 Retention Rates - ![Screenshot 2025-05-20 102151](https://github.com/user-attachments/assets/d56d3e72-d681-4043-aefe-e5e1d82dda5f)
 
 
